@@ -34,6 +34,7 @@ button {
   font-size: calc(10px + 2vmin);
   color: white;
   cursor: pointer;
+  margin: 0 10px;
 }
 button:hover {
   box-shadow: 0 0 15px #61dafb69;
