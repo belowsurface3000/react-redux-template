@@ -1,5 +1,5 @@
 # a basic React Redux example
-A very basic React app with Redux to manage state throughout the wrapped components. Also installed are the Redux Devtools (a browser Extension needs to be installed).
+A slightly advanced and scalable React app with Redux to manage state throughout the wrapped components. Also installed are the Redux Devtools (a browser Extension needs to be installed).
 
 ## Use it by cloning
 1. clone the Repo by pressing the "Code" button and copying the link
